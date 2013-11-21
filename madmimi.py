@@ -106,7 +106,7 @@ class MadMimi(object):
 
     Add new contacts:
 
-      >>> mimi.add_contact(['Tav', 'Espian', 'tav@espians.com'])
+      >>> mimi.add_contacts(['Tav', 'Espian', 'tav@espians.com'])
 
     Subscribe contacts to a list:
 
