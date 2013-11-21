@@ -12,7 +12,7 @@ mimi.delete_list('test') <- delete a list
 
 mimi.add_list('test_list') <- add a list
 
-mimi.add_contact(['Tav', 'Espian', 'tav@espians.com']) <- add a new contact
+mimi.add_contacts(['Tav', 'Espian', 'tav@espians.com']) <- add a new contact
 
 mimi.subscribe('tav@espians.com, 'test_list') <- subscribe a contact to a certain list
 
